@@ -1,9 +1,0 @@
-Find My Result Percentage v2.0
-
--------------------------------
-- 
-- added check updates feature
-
-- design improvement
-
-- faster calculation
