@@ -1,0 +1,11 @@
+Release Notes: 
+-------------------
+
+Find My Result Percentage
+v2.0
+----------
+*added check updates feature
+*design improvements
+*faster calculation 
+
+
